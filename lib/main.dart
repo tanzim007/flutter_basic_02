@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
 
         primarySwatch: Colors.blue,
       ),
-      home: HomePage(msg: 'Statefull Widget Exemple',),
+      home: HomePage(msg: 'Currency Converter',),
     );
   }
 
